@@ -1,0 +1,1 @@
+This is a simple script for generating pdas. Located in index.js. This gives you the idea of how pdas are generated
