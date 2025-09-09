@@ -1,0 +1,10 @@
+[package]
+name = "storage-program"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+create-type = ["cdylib", "lib"]
+
+[dependencies]
+solana-program = "2.3.0"
